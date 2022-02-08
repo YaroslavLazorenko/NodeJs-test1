@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-test1",
+  "version": "1.0.0",
+  "description": "First test of node js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaroslavLazorenko/NodeJs-test1.git"
+  },
+  "keywords": [],
+  "author": "Yaroslav Lazorenko <lazorenko85@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaroslavLazorenko/NodeJs-test1/issues"
+  },
+  "homepage": "https://github.com/YaroslavLazorenko/NodeJs-test1#readme"
+}
