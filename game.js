@@ -63,3 +63,4 @@ const game = () => {
 };
 
 game();
+console.log("Игра окончена!");
